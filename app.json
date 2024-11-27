@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3e9b41f6-53c4-4142-8395-0b4bea99164d"
+      }
+    },
+    "owner": "aditya6032"
   }
 }
